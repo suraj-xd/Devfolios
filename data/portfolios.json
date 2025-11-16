@@ -1,14 +1,5 @@
 [
   {
-    "username": "nabinkhair42",
-    "name": "Nabin Khair",
-    "portfolioLink": "https://www.nabinkhair.com.np",
-    "followers": 17,
-    "stars": 81,
-    "popularity": 98,
-    "lastFetched": 1762862979950
-  },
-  {
     "name": "Alyssa X",
     "username": "alyssaxuu",
     "portfolioLink": "https://www.alyssax.com",
@@ -178,5 +169,14 @@
     "stars": 87,
     "popularity": 403,
     "lastFetched": 1763254827114
+  },
+  {
+    "name": "Nabin Khair",
+    "username": "nabinkhair42",
+    "portfolioLink": "https://www.nabinkhair.com.np",
+    "followers": 17,
+    "stars": 82,
+    "popularity": 99,
+    "lastFetched": 1763295621223
   }
 ]
