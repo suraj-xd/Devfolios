@@ -55,3 +55,4 @@ Make sure your portfolio satisfies the following requirements before submitting 
 - [Kalabasa](https://leanrada.com)
 - [mahdipakravan-dev](https://mpakravan.com/en)
 - [nabinkhair42](https://www.nabinkhair.com.np)
+- [surajgaud](https://www.surajgaud.com)
